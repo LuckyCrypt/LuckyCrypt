@@ -29,5 +29,6 @@
 
 *	<img src="https://img.shields.io/badge/Почта-feefef00@mail.ru-green" alt="Alt text">
 *   [![GitHub](https://img.shields.io/badge/Telegramm-@MaksLuck-blue)](https://t.me/MaksLuck)
+*   [![GitHub](https://img.shields.io/badge/HH-HH.RU-red)](https://spb.hh.ru/resume/25e5c7c7ff0e09fde60039ed1f594a594d6466)
 
 Буду рад общению и сотрудничеству! 😊
