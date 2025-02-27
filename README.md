@@ -27,7 +27,7 @@
 
 ## Как со мной связаться
 
-*   [![GitHub](https://img.shields.io/badge/Почта-feefef00@mail.ru-green)]()
+*	<img src="https://img.shields.io/badge/Почта-feefef00@mail.ru-green" alt="Alt text">
 *   [![GitHub](https://img.shields.io/badge/Telegramm-@MaksLuck-blue)](https://t.me/MaksLuck)
 
 Буду рад общению и сотрудничеству! 😊
