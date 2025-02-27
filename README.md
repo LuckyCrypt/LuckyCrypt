@@ -20,14 +20,14 @@
 
 ## Мои проекты
 
-*	![GitHub](https://img.shields.io/badge/GitHub-ProductFinder-green) Мой сайт для поиска и сравения товаров (В работе)
-*	![GitHub](https://img.shields.io/badge/GitHub-PythonParser-green) Парсер необходимый для сбора информации и управлением браузером (В работе)
-*	![GitHub](https://img.shields.io/badge/GitHub-TestQuest-green) Сайт для тестирования сотрудников (В работе)
+*	[![GitHub](https://img.shields.io/badge/GitHub-ProductFinder-green)](https://github.com/LuckyCrypt/ProductFinder) Мой сайт для поиска и сравения товаров (В работе)
+*	[![GitHub](https://img.shields.io/badge/GitHub-PythonParser-green)](https://github.com/LuckyCrypt/PytonParser) Парсер необходимый для сбора информации и управлением браузером (В работе)
+*	[![GitHub](https://img.shields.io/badge/GitHub-TestQuest-green)](https://github.com/LuckyCrypt/TestQuest) Сайт для тестирования сотрудников (В работе)
 
 
 ## Как со мной связаться
 
-*   [feefef00@mail.ru] 
-*   ![GitHub](https://img.shields.io/badge/Telegramm-@MaksLuck-blue)
+*   [![GitHub](https://img.shields.io/badge/Почта-feefef00@mail.ru-green)]()
+*   [![GitHub](https://img.shields.io/badge/Telegramm-@MaksLuck-blue)](https://t.me/MaksLuck)
 
 Буду рад общению и сотрудничеству! 😊
